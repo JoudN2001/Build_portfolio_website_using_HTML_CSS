@@ -32,7 +32,7 @@ You will need a web browser to view the website.
     ```sh
     git clone [https://github.com/your_username/your_repository.git](https://github.com/your_username/your_repository.git)
     ```
-2.  Open the `intex.html` file in your browser to view the website.
+2.  Open the `index.html` file in your browser to view the website.
 
 ## 📧 Contact
 
